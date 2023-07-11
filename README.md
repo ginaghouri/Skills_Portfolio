@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ginarubik
+- 👋 Hi, I’m @ginarubik.
 - 👀 I’m interested in full stack development.
 - 🌱 I’m currently learning python and web development.
-- 💞️ I’m looking to collaborate on dynamic websites.
+- 💞️ I’m looking to collaborate on interactive websites.
 - 📫 How to reach me: +36309582250 whatsapp text 
 
 <!---
