@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gina Rubik.
 - 👀 I’m interested in full stack development.
-- 🌱 I’m currently learning python and web development.
+- 🌱 I’m currently learning software engineering and web development.
 - 💞️ I’m looking to collaborate on interactive websites.
 - 📫 How to reach me: @ginarubik 
 
