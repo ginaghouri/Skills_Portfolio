@@ -1,6 +1,6 @@
 - 👋 Welcome to my Github Portfolio!
 - 👀 My main interest is in full stack development.
-- 🌱 Currently training in software engineering and web development.
+- 🌱 Training in software engineering and web development.
 - Current Skills:
 *Front-End: Javascript, Animation, HTML, CSS
 *Back-End: Python, Flask, SQL, MongoDB
