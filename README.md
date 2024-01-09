@@ -1,5 +1,5 @@
 - 👋 Welcome to my Github Portfolio!
-- 👀 My main interest is in full stack.
+- 👀 My main interest is in full stack innovation.
 - 🌱 Training in software engineering and web development.
 - Current Skills:
 *Front-End: Javascript, Animation, HTML, CSS
