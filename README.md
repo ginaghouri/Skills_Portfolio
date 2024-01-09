@@ -5,7 +5,7 @@
 *Front-End: Javascript, Animation, HTML, CSS
 *Back-End: Python, Flask, SQL, MongoDB
 *Version control: Git, GitHub
-*Tools: Restful API, Unit testing, Code Review and Documentation, Jira, Atlassian
+*Tools: Restful API, Unit testing, Code Review and Documentation, Jira, Atlassian, Kanban
 - 💞️ I’m looking to collaborate on interactive websites with future clients.
 - 📫 How to reach me: @ginarubik 
 
