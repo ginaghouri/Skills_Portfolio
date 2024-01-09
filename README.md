@@ -4,7 +4,7 @@
 - Current Skills:
 *Front-End: Javascript, Animation, HTML, CSS
 *Back-End: Python, Flask, SQL, MongoDB
-*Version control: Git, GitHub
+*Version control: Git, GitHub, Github Desktop
 *Software Tools: Restful API, Unit testing, Code Review and Documentation, Jira, Atlassian, Kanban, Mock Assessment
 *Teamwork: Edamam API, web and console apps with CFG groups
 - 💞️ I’m looking to collaborate on interactive websites with future clients.
