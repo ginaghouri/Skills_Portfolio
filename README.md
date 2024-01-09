@@ -6,7 +6,7 @@
 *Back-End: Python, Flask, SQL, MongoDB
 *Version control: Git, GitHub
 *Software Tools: Restful API, Unit testing, Code Review and Documentation, Jira, Atlassian, Kanban, Mock Assessment
-*Collaborations: Team Work on API, web and console apps with CFG students
+*Collaborations: Team Work on API, web and console apps with CFG international students
 - 💞️ I’m looking to collaborate on interactive websites with future clients.
 - 📫 How to reach me: @ginarubik 
 
