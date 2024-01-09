@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Gina Rubik.
-- 👀 I’m interested in full stack development.
-- 🌱 I’m currently learning software engineering and web development.
+- 👋 Welcome to my Github Portfolio!
+- 👀 My main interest is in full stack development.
+- 🌱 Currently training in software engineering and web development.
 - Current Skills:
 *Front-End: Javascript, Animation, HTML, CSS
 *Back-End: Python, Flask, SQL, MongoDB
