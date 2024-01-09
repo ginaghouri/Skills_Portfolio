@@ -3,9 +3,10 @@
 - 🌱 I’m currently learning software engineering and web development.
 - Current Skills:
 *Front-End: Javascript, Animation, HTML, CSS
-*Back-End: Python, Flask, SQL/MySQL, NoSQL/MongoDB
+*Back-End: Python, Flask, SQL, MongoDB
 *Version control: Git, GitHub
-- 💞️ I’m looking to collaborate on interactive websites.
+*Tools: Restful API, Unit testing, Code Review and Documentation, Jira, Kanban 
+- 💞️ I’m looking to collaborate on interactive websites with future clients.
 - 📫 How to reach me: @ginarubik 
 
 <!---
