@@ -4,8 +4,8 @@
 - Current Skills:
 *Front-End:Javascript,Animation,HTML,CSS
 *Back-End:Python,Flask,SQL,MongoDB
-*Version control Git,GitHub,Github Desktop
-*Software Tools:Visual Studio Code,Pycharm,Restful API,Unit testing,Jira,Atlassian,Kanban,Mock Assessment,Debugging
+*Version control: Git,GitHub,Github Desktop
+*Software Tools:Visual Studio Code,Pycharm,Canva,Restful API,Unit testing,Jira,Atlassian,Kanban,Mock Assessment,Debugging
 *Teamwork:Edamam API, web and console apps with CFG groups
 - 💞️ I’m looking to collaborate on interactive websites with future clients.
 - 📫 How to reach me: @ginarubik 
