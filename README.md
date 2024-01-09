@@ -6,7 +6,7 @@
 *Back-End: Python, Flask, SQL, MongoDB
 *Version control: Git, GitHub
 *Software Tools: Restful API, Unit testing, Code Review and Documentation, Jira, Atlassian, Kanban, Mock Assessment
-*Teamwork Experience: Edamam API, web and console apps with CFG international students
+*Teamwork: Edamam API, web and console apps with CFG groups
 - 💞️ I’m looking to collaborate on interactive websites with future clients.
 - 📫 How to reach me: @ginarubik 
 
