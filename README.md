@@ -5,7 +5,7 @@
 *Front-End:Javascript,HTML,CSS
 *Back-End:Python,Flask,SQL,MongoDB
 *Version control: Git,Github Desktop
-*Software Tools:Visual Studio Code,Pycharm,Restful API,Unit testing,Jira,Atlassian,Kanban,Mock Assessment,Debugging
+*Software Tools:Visual Studio Code,Pycharm,Restful API,Unit testing,Mocking,Jira,Atlassian,Kanban,Debugging
 *Visuals/Editing: Animation,Canva, Adobe Premiere Pro
 *Teamwork:Edamam API, web and console apps with CFG groups
 - 📸I’m looking to collaborate on interactive websites with future clients.
