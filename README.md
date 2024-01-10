@@ -1,5 +1,5 @@
 - 👋 Welcome to my Visionary Github Portfolio!
-- 👀 My main interest is in full stack innovation,fine art and sustainability.
+- 👀 My main interest is in full stack innovation,creativity and sustainability.
 - 🌱 Training in software engineering and web development.
 - 🌈Current Skills:
 *Front-End:Javascript,HTML,CSS
