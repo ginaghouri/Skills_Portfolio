@@ -8,7 +8,8 @@
 *Software Tools:Visual Studio Code,Pycharm;Restful API:Webhooks,Zapier Developer Platform;Unittesting,UAT;Jira,Atlassian,Kanban;Debugging
 *Visuals/Editing: Animation,Canva, Adobe Premiere Pro
 *Teamwork:Edamam API, web and console apps with CFG groups
-- 📸I’m looking to collaborate on interactive websites with future clients.
+🏃‍♀️ Challenges: Codewars, Hackkerrank, Codepen 
+- 📸I’m looking to collaborate on interactive websites and computer tutorials with future clients.
 - 📫 How to reach me: @ginarubik 
 
 <!---
