@@ -4,7 +4,7 @@ by any sort of process I could convert 2 & 2 into five
 it would give me much greater pleasure.
 —LORD BYRON
 1813 letter to his future wife Annabella.
-Their daughter Ada Lovelace was the first programme
+Their daughter Ada Lovelace was the first programmer
 
 - 👋 Welcome to my Visionary Github Portfolio!
 - 👀 My main interest is in full stack innovation,creativity and sustainability.
