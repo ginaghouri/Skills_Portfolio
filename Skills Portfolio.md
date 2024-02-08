@@ -7,7 +7,7 @@ it would give me much greater pleasure."
 Their daughter Ada Lovelace was the first programmer
 
 - 👋 Welcome to my Visionary Github Portfolio!
-- 👀 My main interest is in full stack innovation,creativity and sustainability.
+- 👀 My main interest is in full stack innovation, creative coding and sustainable solutions to problem-solving.
 - 🌱 Training in software engineering and web development.
 - 🌈Current Skills:
 *Front-End:Javascript,HTML,CSS
