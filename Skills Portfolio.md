@@ -15,7 +15,7 @@ Their daughter Ada Lovelace was the first programmer
 *Version control: Git,Github Desktop
 *Software Tools:Visual Studio Code,Pycharm;Restful API:Webhooks,ZapierDeveloper Platform;Unittesting,UAT;Jira,Atlassian,Kanban;Debugging
 *Visuals/Editing: Animation,Canva, Adobe Premiere Pro
-*Teamwork:APIs, web and console apps with CFG groups
+*Teamwork:APIs, web and console apps with CFG groups, international developers and clients 
 -  🏃‍♀️Challenges: Codewars, Hackkerrank,Codepen,GeekforGeeks
 -  👩‍💻Literature: Computer Science Distilled(Filho), Grokking Algorithmns(Bhargava), Introduction to APIs(Cooksey), Daily Laws(Green) 
 -  📸I’m looking to collaborate on interactive websites and computer tutorials with future clients.
