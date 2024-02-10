@@ -19,7 +19,7 @@ Their daughter Ada Lovelace was the first programmer
 -  🏃‍♀️Challenges: Codewars, Hackkerrank,Codepen,GeekforGeeks
 -  👩‍💻Literature: Computer Science Distilled(Filho), Grokking Algorithmns(Bhargava), Introduction to APIs(Cooksey), Daily Laws(Green) 
 -  📸I’m looking to collaborate on interactive websites and computer tutorials with future clients.
--  📫 How to reach me: guruganasaki@gmail.com
+-  📫 How to reach me: https://www.linkedin.com/in/gina-rubik-25423923/
 
 <!---
 ginarubik/ginarubik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
