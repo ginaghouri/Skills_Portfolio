@@ -17,7 +17,7 @@ Their daughter Ada Lovelace was the first programmer
 *Visuals/Editing: Animation,Canva, Adobe Premiere Pro
 *Teamwork:APIs, web and console apps with CFG groups, international developers and clients 
 -  🏃‍♀️Challenges: Codewars, Hackkerrank,Codepen,GeekforGeeks
--  👩‍💻Literature: Computer Science Distilled(Filho), Grokking Algorithmns(Bhargava), Introduction to APIs(Cooksey), Daily Laws(Green) 
+-  👩‍💻Literature: Computer Science Distilled(Ferrira Filho), Grokking Algorithmns(Aditya Bhargava), Introduction to APIs(Brian Cooksey), The Daily Laws(Robert Green) 
 -  📸I’m looking to collaborate on interactive websites and computer tutorials with future clients.
 -  📫 How to reach me: https://www.linkedin.com/in/gina-rubik-25423923/
 
