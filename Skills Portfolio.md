@@ -16,9 +16,10 @@ Their daughter Ada Lovelace was the first programmer
 *Software Tools:Visual Studio Code,Pycharm;Restful API:Webhooks,ZapierDeveloper Platform;Unittesting,UAT;Jira,Atlassian,Kanban;Debugging
 *Visuals/Editing: Animation,Canva, Adobe Premiere Pro
 *Teamwork:APIs, web and console apps with CFG groups
-🏃‍♀️ Challenges: Codewars, Hackkerrank,Codepen,GeekforGeeks
-- 📸I’m looking to collaborate on interactive websites and computer tutorials with future clients.
-- 📫 How to reach me: guruganasaki@gmail.com
+-  🏃‍♀️Challenges: Codewars, Hackkerrank,Codepen,GeekforGeeks
+-  👩‍💻Literature: Computer Science Distilled(Filho), Grokking Algorithmns(Bhargava), Introduction to APIs(Cooksey), Daily Laws(Green) 
+-  📸I’m looking to collaborate on interactive websites and computer tutorials with future clients.
+-  📫 How to reach me: guruganasaki@gmail.com
 
 <!---
 ginarubik/ginarubik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
