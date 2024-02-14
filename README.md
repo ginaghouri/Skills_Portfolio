@@ -7,7 +7,8 @@
 
 ![image](https://github.com/ginarubik/Skills_Portfolio/assets/139076532/dd4cc9bc-be23-4d16-864f-bc9c1236d171)
 
-![image](https://github.com/ginarubik/Skills_Portfolio/assets/139076532/89517492-cf22-4111-97fc-c830f16d5433)
+![image](https://github.com/ginarubik/Skills_Portfolio/assets/139076532/4be65586-fbed-4511-977b-32e402cea078)
+
 
 *Back-End: Python,Flask,SQL,MongoDB *Version control: Git,Github Desktop *Software Tools:Visual Studio Code,Pycharm;Restful API:Webhooks,Zapier Developer Platform; Unittesting,UAT;Jira,Atlassian,Kanban;Debugging *Visuals/Editing: Animation,Canva, Adobe Premiere Pro *Teamwork:APIs, web and console apps with CFG groups, international developers and clients
 🏃‍♀️Challenges: Codewars, Hackkerrank,Codepen,GeekforGeeks
