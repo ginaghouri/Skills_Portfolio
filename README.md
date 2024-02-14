@@ -5,6 +5,7 @@
 🌱 Trained by CFG in software engineering and web development.
 🌈Current Skills: *Front-End: Javascript, HTML
 
+https://www.w3.org/html/
 ![image](https://github.com/ginarubik/Skills_Portfolio/assets/139076532/89517492-cf22-4111-97fc-c830f16d5433)
 
 *Back-End: Python,Flask,SQL,MongoDB *Version control: Git,Github Desktop *Software Tools:Visual Studio Code,Pycharm;Restful API:Webhooks,Zapier Developer Platform; Unittesting,UAT;Jira,Atlassian,Kanban;Debugging *Visuals/Editing: Animation,Canva, Adobe Premiere Pro *Teamwork:APIs, web and console apps with CFG groups, international developers and clients
