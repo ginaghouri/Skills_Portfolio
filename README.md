@@ -9,4 +9,3 @@
 📸I’m looking to collaborate on interactive websites and computer tutorials with future clients.
 📫 How to reach me: https://www.linkedin.com/in/gina-rubik-25423923/
 
-https://developer.mozilla.org/en-US/docs/Web/JavaScript
