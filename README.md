@@ -4,6 +4,9 @@
 👀 My main interests are: full stack innovation, creative coding and sustainable solutions to problem-solving.
 🌱 Trained by CFG in software engineering and web development.
 🌈Current Skills: *Front-End: Javascript, HTML
+
+![image](https://github.com/ginarubik/Skills_Portfolio/assets/139076532/dd4cc9bc-be23-4d16-864f-bc9c1236d171)
+
 ![image](https://github.com/ginarubik/Skills_Portfolio/assets/139076532/d6c019c2-3219-451f-96ec-a83b4cc7e781)
 
 
