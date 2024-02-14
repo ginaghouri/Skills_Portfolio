@@ -5,6 +5,8 @@
 🌱 Trained by CFG in software engineering and web development.
 🌈Current Skills: *Front-End: Javascript,HTML, ![image](https://github.com/ginarubik/Skills_Portfolio/assets/139076532/3dca6499-2897-497f-928d-c7996bee78cf)
 
+https://codepen.io/your-work
+
 *Back-End: Python,Flask,SQL,MongoDB *Version control: Git,Github Desktop *Software Tools:Visual Studio Code,Pycharm;Restful API:Webhooks,Zapier Developer Platform; Unittesting,UAT;Jira,Atlassian,Kanban;Debugging *Visuals/Editing: Animation,Canva, Adobe Premiere Pro *Teamwork:APIs, web and console apps with CFG groups, international developers and clients
 🏃‍♀️Challenges: Codewars, Hackkerrank,Codepen,GeekforGeeks
 👩‍💻Literature: Computer Science Distilled (Ferreira Filho), Grokking Algorithmns (Aditya Bhargava), Introduction to APIs (Brian Cooksey), The Daily Laws (Robert Green)
