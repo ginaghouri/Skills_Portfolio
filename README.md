@@ -3,7 +3,7 @@
 👋 Welcome to my Visionary Github Portfolio!
 👀 My main interests are: full stack innovation, creative coding and sustainable solutions to problem-solving.
 🌱 Trained by CFG in software engineering and web development.
-🌈Current Skills: *Front-End: Javascript,HTML,CSS ![image](https://github.com/ginarubik/Skills_Portfolio/assets/139076532/3dca6499-2897-497f-928d-c7996bee78cf)
+🌈Current Skills: *Front-End: Javascript,HTML, ![image](https://github.com/ginarubik/Skills_Portfolio/assets/139076532/3dca6499-2897-497f-928d-c7996bee78cf)
 
 *Back-End: Python,Flask,SQL,MongoDB *Version control: Git,Github Desktop *Software Tools:Visual Studio Code,Pycharm;Restful API:Webhooks,Zapier Developer Platform; Unittesting,UAT;Jira,Atlassian,Kanban;Debugging *Visuals/Editing: Animation,Canva, Adobe Premiere Pro *Teamwork:APIs, web and console apps with CFG groups, international developers and clients
 🏃‍♀️Challenges: Codewars, Hackkerrank,Codepen,GeekforGeeks
