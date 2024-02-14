@@ -6,11 +6,7 @@
 🌈Current Skills: *Front-End: 
 ![image](https://github.com/ginarubik/Skills_Portfolio/assets/139076532/7df4e4f1-b074-4a69-9182-8131ffa83e6f)
 ![image](https://github.com/ginarubik/Skills_Portfolio/assets/139076532/dd4cc9bc-be23-4d16-864f-bc9c1236d171)
-![image](https://github.com/ginarubik/Skills_Portfolio/assets/139076532/87f1bd24-085c-4798-af36-bba8f3a0471c)
 ![image](https://github.com/ginarubik/Skills_Portfolio/assets/139076532/386c4d52-0fdd-4e38-bd8f-389bf0858140)
-
-
-
 *Back-End: Python,Flask,SQL,MongoDB *Version control: Git,Github Desktop *Software Tools:Visual Studio Code,Pycharm;Restful API:Webhooks,Zapier Developer Platform; Unittesting,UAT;Jira,Atlassian,Kanban;Debugging *Visuals/Editing: Animation,Canva, Adobe Premiere Pro *Teamwork:APIs, web and console apps with CFG groups, international developers and clients
 🏃‍♀️Challenges: Codewars, Hackkerrank,Codepen,GeekforGeeks
 👩‍💻Literature: Computer Science Distilled (Ferreira Filho), Grokking Algorithmns (Aditya Bhargava), Introduction to APIs (Brian Cooksey), The Daily Laws (Robert Green)
