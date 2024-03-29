@@ -15,7 +15,7 @@ Educational Website Designs: https://codepen.io/collection/YyOmBP
 *Teamwork: management with Agile and Scrum on APIs, web and console apps with CFG groups, international developers and clients
 🏃‍♀️Challenges: Codewars, Hackkerrank,Codepen,GeekforGeeks  
 
-👩‍💻Literature: Computer Science Distilled (Ferreira Filho), Grokking Algorithmns (Aditya Bhargava), Introduction to APIs (Brian Cooksey), The Daily Laws (Robert Green)
+👩‍💻Literature: Computer Science Distilled (Ferreira Filho), Grokking Algorithmns (Aditya Bhargava), Introduction to APIs (Brian Cooksey), The Daily Laws (Robert Greene)
 
 📸I look forward to collaborate on interactive websites and computer tutorials with future clients and companies!
 
