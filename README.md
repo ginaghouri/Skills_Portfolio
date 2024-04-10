@@ -13,7 +13,7 @@ Educational Website Designs: https://codepen.io/collection/YyOmBP
 *Back-End: Python3,PyMongo,Pandas,Textblob,Jinja,Flask,SQL,MongoDB *Version control: Git,Github Desktop *Software Tools:Visual Studio Code,Pycharm;GIF API,Restful API:Webhooks,Zapier Developer Platform;Colaboratory&Literate Programming;Binary&Text Files;Unittesting,UAT;Jira,Atlassian,Kanban;Debugging,Reverse Engineering(Collab with GCHQ)
 *Visuals/Editing: Animation,Canva, Adobe Premiere Pro 
 *Teamwork:Agile and Scrum, web and console apps with CFG groups, international developers and clients
-🏃‍♀️Challenges: Codewars, Hackkerrank,Codepen,GeekforGeeks  
+🏃‍♀️Challenges: Codewars, Hackkerrank,Codepen,GeekforGeeks,T4rt3e,T25nter 
 
 👩‍💻Literature: Computer Science Distilled (Ferreira Filho), Grokking Algorithmns (Aditya Bhargava), Introduction to APIs (Brian Cooksey), The Daily Laws (Robert Greene)
 
