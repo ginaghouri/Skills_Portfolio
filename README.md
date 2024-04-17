@@ -1,4 +1,4 @@
-"I know that two & two make four—and should be glad to prove it too if I could—though I must say if by any sort of process I could convert 2 & 2 into five it would give me much greater pleasure." —LORD BYRON 1813 letter to his future wife Annabella. Their daughter Ada Lovelace was the first programmer
+8"I know that two & two make four—and should be glad to prove it too if I could—though I must say if by any sort of process I could convert 2 & 2 into five it would give me much greater pleasure." —LORD BYRON 1813 letter to his future wife Annabella. Their daughter Ada Lovelace was the first programmer
 
 👋 Welcome to my Visionary Github Portfolio!
 👀 My main interests are: full stack innovation, creative coding and sustainable solutions to problem-solving.
@@ -11,7 +11,7 @@
 Educational Website Designs: https://codepen.io/collection/YyOmBP 
 
 *Back-End: Python3,PyMongo,Pandas,Textblob,Jinja,Flask,SQL,MongoDB *Version control: Git,Github Desktop *Software Tools:Visual Studio Code,Pycharm;GIF API,Restful API:Webhooks,Zapier Developer Platform;Colaboratory&Literate Programming;Binary&Text Files;Unittesting,UAT;Jira,Atlassian,Figma,Kanban;Debugging,Reverse Engineering(Collab with GCHQ), Swot Analysis
-*Visuals/Editing: Animation,Canva, Adobe Premiere Pro, OBS Studio
+*Visuals/Editing: Animation,Canva, Adobe Premiere Pro,OBS Studio, Color Hunt,ColorPick Eyedropper
 *Teamwork:Agile and Scrum, web and console apps with CFG groups, international developers and clients
 🏃‍♀️Challenges: Codewars, Hackkerrank,Codepen,GeekforGeeks,PythonTurtle,Tknter 
 
