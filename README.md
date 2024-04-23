@@ -11,6 +11,9 @@
 Educational Website Designs: https://codepen.io/collection/YyOmBP 
 
 *Back-End: Python3,PyMongo,Pandas,Textblob,Jinja,Flask,SQL,MongoDB *Version control: Git,Github Desktop *Software Tools:Visual Studio Code, Visual Studio;Pycharm;GIF API,Restful API:Webhooks,Zapier Developer Platform;Colaboratory&Literate Programming;Binary&Text Files;Unittesting,UAT;Jira,Atlassian,Figma,Kanban;Debugging,Reverse Engineering(Collab with GCHQ), Swot Analysis
+
+![th](https://github.com/ginarubik/Skills_Portfolio/assets/139076532/955ffaf4-81f7-417d-8b7b-d0ad22c4c8d8)
+
 *Visuals/Editing: Animation,Canva, Adobe Premiere Pro,OBS Studio, Color Hunt,ColorPick Eyedropper
 *Teamwork:Agile and Scrum, web and console apps with CFG groups, international developers and clients
 🏃‍♀️Challenges: Codewars, Hackkerrank,Codepen,GeekforGeeks,PythonTurtle,Tknter,Textblob
