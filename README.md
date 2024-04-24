@@ -12,7 +12,8 @@ Website Designs: https://codepen.io/collection/YyOmBP
 
 *Back-End: Python3,PyMongo,Pandas,Textblob,Jinja,Flask,SQL,MongoDB *Version control: Git,Github Desktop *Software Tools:Visual Studio Code, Visual Studio;Pycharm;GIF API,Restful API:Webhooks,Zapier Developer Platform;Colaboratory&Literate Programming;Binary&Text Files;Unittesting,UAT;Jira,Atlassian,Figma,Kanban;Debugging,Reverse Engineering(Collab with GCHQ), Swot Analysis
 
-![th](https://github.com/ginarubik/Skills_Portfolio/assets/139076532/955ffaf4-81f7-417d-8b7b-d0ad22c4c8d8)![th](https://github.com/ginarubik/Skills_Portfolio/assets/139076532/04ac0271-0777-4da1-882b-cd40a603a394)https://www.bing.com/ck/a?!&&p=9c0c59ca0fb57674JmltdHM9MTcxMzkxNjgwMCZpZ3VpZD0zOWU0NjY3Ny1lMjZkLTY5MDUtMmEyMy03NjNlZTNiYTY4YzYmaW5zaWQ9NTc0Nw&ptn=3&ver=2&hsh=3&fclid=39e46677-e26d-6905-2a23-763ee3ba68c6&u=a1L2ltYWdlcy9zZWFyY2g_cT1nb2xhbmclMjBsb2dvJkZPUk09SVFGUkJBJmlkPURBRDRFRENFMDgzQjg2OEEwMDBFNTE2MkIyQkE3MkNBRTlFRkM1RDk&ntb=1
+![th](https://github.com/ginarubik/Skills_Portfolio/assets/139076532/955ffaf4-81f7-417d-8b7b-d0ad22c4c8d8)![th](https://github.com/ginarubik/Skills_Portfolio/assets/139076532/04ac0271-0777-4da1-882b-cd40a603a394)
+![OIP](https://github.com/ginarubik/Skills_Portfolio/assets/139076532/fcd965e6-ea46-4803-bf22-0e414fdf7074)
 
 
 *Visuals/Editing: Animation,Canva, Adobe Premiere Pro,OBS Studio,Color Hunt,ColorPick Eyedropper, Carbon Source Code Images 
