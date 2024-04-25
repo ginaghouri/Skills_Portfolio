@@ -14,7 +14,7 @@ Website Designs: https://codepen.io/collection/YyOmBP
 
 ![th](https://github.com/ginarubik/Skills_Portfolio/assets/139076532/955ffaf4-81f7-417d-8b7b-d0ad22c4c8d8)![th](https://github.com/ginarubik/Skills_Portfolio/assets/139076532/04ac0271-0777-4da1-882b-cd40a603a394)
 
-<img src="https://github.com/ginarubik/Skills_Portfolio/assets/139076532/fcd965e6-ea46-4803-bf22-0e414fdf7074" style="max-width=20%;">
+<img src="https://github.com/ginarubik/Skills_Portfolio/assets/139076532/fcd965e6-ea46-4803-bf22-0e414fdf7074" style="max-height=20%;">
 
 
 *Visuals/Editing: Animation,Canva, Adobe Premiere Pro,OBS Studio,Color Hunt,ColorPick Eyedropper,Carbon Source Code Images 
