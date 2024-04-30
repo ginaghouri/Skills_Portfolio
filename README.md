@@ -1,4 +1,4 @@
-"I know that two & two make four—and should be glad to prove it too if I could—though I must say if by any sort of process I could convert 2 & 2 into five it would give me much greater pleasure." —LORD BYRON 1813 letter to his future wife Annabella. Their daughter Ada Lovelace was the first programmer
+⁹"I know that two & two make four—and should be glad to prove it too if I could—though I must say if by any sort of process I could convert 2 & 2 into five it would give me much greater pleasure." —LORD BYRON 1813 letter to his future wife Annabella. Their daughter Ada Lovelace was the first programmer
 
 👋 Welcome to my Visionary Github Portfolio!
 👀 My main interests are: full stack innovation, creative coding and sustainable solutions to problem-solving.
@@ -17,7 +17,7 @@ Website Designs: https://codepen.io/collection/YyOmBP
 <img src="https://github.com/ginarubik/Skills_Portfolio/assets/139076532/fcd965e6-ea46-4803-bf22-0e414fdf7074" style="max-height=10%;">
 
 
-*Visuals/Editing: Animation,Canva, Adobe Premiere Pro,OBS Studio,Color Hunt,ColorPick Eyedropper,Carbon Source Code Images 
+*Visuals/Editing: Animation,Canva, Adobe Premiere Pro,OBS Studio,Color Hunt,ColorPick Eyedropper,Carbon Source Code Images, Strach 
 *Teamwork:Agile and Scrum, web and console apps with CFG groups, international developers and clients
 🏃‍♀️Challenges: Codewars, Hackkerrank,Codepen,GeekforGeeks,PythonTurtle,Tknter,Textblob
 
