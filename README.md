@@ -17,7 +17,7 @@ Website Designs: https://codepen.io/collection/YyOmBP
 <img src="https://github.com/ginarubik/Skills_Portfolio/assets/139076532/fcd965e6-ea46-4803-bf22-0e414fdf7074" style="max-height=10%;">
 
 
-*Visuals/Editing: Animation,Canva, Adobe Premiere Pro,OBS Studio,Color Hunt,ColorPick Eyedropper,Carbon Source Code Images, Scratch, Turtle, Tkinter
+*Visuals/Editing: Animation,Canva, Adobe Premiere Pro,OBS Studio,Color Hunt,ColorPick Eyedropper,Carbon Source Code Images, Scratch Studio, Turtle, Tkinter
 *Teamwork:Agile and Scrum, web and console apps with CFG groups, international developers and clients
 🏃‍♀️Challenges: Codewars, Hackkerrank,Codepen,GeekforGeeks
 
