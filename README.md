@@ -1,7 +1,8 @@
 ⁹"I know that two & two make four—and should be glad to prove it too if I could—though I must say if by any sort of process I could convert 2 & 2 into five it would give me much greater pleasure." —LORD BYRON 1813 letter to his future wife Annabella. Their daughter Ada Lovelace was the first programmer
 
 👋 Welcome to my Visionary Github Portfolio!
-👀 My main interests are: full stack innovation, creative coding and sustainable solutions to problem-solving.
+👀 My main interests are: full stack innovation, creative coding and sustainable solutions to problem-solving
+EU Rainbow website developer: www.rainbowforum.net
 🌱 Trained by CFG in software engineering and web development.
 🌈Current Skills: *Front-End: 
 ![image](https://github.com/ginarubik/Skills_Portfolio/assets/139076532/7df4e4f1-b074-4a69-9182-8131ffa83e6f)
