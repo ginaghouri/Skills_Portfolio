@@ -28,5 +28,5 @@ Website Designs: https://codepen.io/collection/YyOmBP
 
 📸I look forward to collaborate on interactive websites and computer tutorials with future clients and companies!
 
-📫 How to reach me: https://www.linkedin.com/in/gina-rubik-25423923/
+📫 How to reach me: www.linkedin.com/in/ginaghouri
 
