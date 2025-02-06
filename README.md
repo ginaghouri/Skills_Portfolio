@@ -24,6 +24,8 @@ Website Designs: https://codepen.io/collection/YyOmBP
 
 👩‍💻Literature: Computer Science Distilled (Ferreira Filho), Grokking Algorithmns (Aditya Bhargava), Introduction to APIs (Brian Cooksey), The Daily Laws (Robert Greene)
 
+🧙‍♀️Data Science: Kaggle Data Sets, Machine Learning, Data Visualisation
+
 📸I look forward to collaborate on interactive websites and computer tutorials with future clients and companies!
 
 📫 How to reach me: https://www.linkedin.com/in/gina-rubik-25423923/
